@@ -1,7 +1,10 @@
 [![Build status](https://github.com/git/git/workflows/CI/badge.svg)](https://github.com/git/git/actions?query=branch%3Amaster+event%3Apush)
 
-Git - fast, scalable, distributed revision control system
+Git-Gud - fast, scalable, distributed revision control system
 =========================================================
+my fork for future possible contribution or peronal use like for packaging.
+
+README FROM @metux : 
 
 Git with WD-40 applied.
 
